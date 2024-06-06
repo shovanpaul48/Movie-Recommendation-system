@@ -30,10 +30,8 @@ Step 6: Use TMDB api key to fetch poster and rating
 Here I use streamlit to make a website
 
 🚀To run use Command
+
     streamlit run app.py
 
-
-#I host this projet on Render here is the link, try it
+#Hosted this project on Render try it
 https://movie-recommendation-system-ihui.onrender.com/
-
-    streamlit run app.py
